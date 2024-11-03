@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "picture": "https://images.pexels.com/photos/27093997/pexels-photo-27093997/free-photo-of-children-at-school.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Help Build a School",
+    "category": "Education",
+    "colors": {
+      "category_bg": "#FFB6C1",
+      "card_bg": "#FFF5EE",
+      "text_and_button_bg": "#FF6347"
+    },
+    "description": "Your contribution will directly support the construction of a school in a remote area, providing education to children who lack access to learning facilities. This project will offer not only a safe environment for learning but also a chance for these children to break free from the cycle of poverty and build a brighter future.",
+    "price": 5000
+  },
+  {
+    "id": 2,
+    "picture": "https://images.pexels.com/photos/6995247/pexels-photo-6995247.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Food for the Hungry",
+    "category": "Food",
+    "colors": {
+      "category_bg": "#FFDEAD",
+      "card_bg": "#F5F5DC",
+      "text_and_button_bg": "#D2691E"
+    },
+    "description": "Donate to provide nutritious meals to individuals and families struggling with hunger. Your support will help deliver food to those in need, ensuring that they receive the sustenance necessary for survival and better health. By contributing to this cause, you're helping to fight hunger and bring hope to the most vulnerable.",
+    "price": 1000
+  },
+  {
+    "id": 3,
+    "picture": "https://images.unsplash.com/photo-1615461066159-fea0960485d5?q=80&w=1616&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Medical Aid for Children",
+    "category": "Health",
+    "colors": {
+      "category_bg": "#ADD8E6",
+      "card_bg": "#E0FFFF",
+      "text_and_button_bg": "#4682B4"
+    },
+    "description": "Your donation will provide critical medical care to children suffering from illness or injury, particularly in areas where healthcare is limited. This support can mean the difference between life and death, offering children a chance to recover, grow, and lead healthy lives. Join us in giving these children the gift of health and hope.",
+    "price": 3000
+  },
+  {
+    "id": 4,
+    "picture": "https://plus.unsplash.com/premium_photo-1661964155049-f8a24a60be74?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Winter Clothing Drive",
+    "category": "Clothing",
+    "colors": {
+      "category_bg": "#F5DEB3",
+      "card_bg": "#FFF8DC",
+      "text_and_button_bg": "#8B4513"
+    },
+    "description": "Help us provide warm clothing to individuals and families who are unable to afford them during the harsh winter months. Your contribution will ensure that those in need have access to coats, hats, gloves, and other essentials to stay warm. Together, we can protect the vulnerable from the cold and make a real difference in their lives.",
+    "price": 1500
+  },
+  {
+    "id": 5,
+    "picture": "https://media.istockphoto.com/id/1372606811/photo/volunteers-arranging-donations-in-a-community-center-including-a-disabled-person.jpg?s=1024x1024&w=is&k=20&c=F66L7PeIKmWnOd9U4rUJq9UUXIalGVVj42Ty1t7swYI=",
+    "title": "Support for Orphans",
+    "category": "Health",
+    "colors": {
+      "category_bg": "#ADD8E6",
+      "card_bg": "#E0FFFF",
+      "text_and_button_bg": "#4682B4"
+    },
+    "description": "This initiative aims to provide healthcare, nutrition, and emotional support to orphaned children who have lost their parents and guardians. Your donation will help cover the costs of medical treatments, counseling, and daily care, ensuring that these children receive the love and attention they need to thrive despite their challenging circumstances.",
+    "price": 2000
+  },
+  {
+    "id": 6,
+    "picture": "https://media.istockphoto.com/id/1498170916/photo/a-couple-is-taking-a-bag-of-food-at-the-food-and-clothes-bank.jpg?s=1024x1024&w=is&k=20&c=ASXbBbzgxFx83RgmjnQoHssc6zTlPZlhZgSnKJhOPQ0=",
+    "title": "Feed the Homeless",
+    "category": "Food",
+    "colors": {
+      "category_bg": "#FFDEAD",
+      "card_bg": "#F5F5DC",
+      "text_and_button_bg": "#D2691E"
+    },
+    "description": "Join us in our mission to provide nutritious meals to homeless individuals living on the streets. Your donation will help fund meal programs that deliver hot food, fresh produce, and essential nourishment to those who need it most. By supporting this cause, you are playing a crucial role in combating hunger and helping people rebuild their lives.",
+    "price": 1200
+  },
+  {
+    "id": 7,
+    "picture": "https://cdn.pixabay.com/photo/2015/08/05/13/55/children-876543_1280.jpg",
+    "title": "Books for Students",
+    "category": "Education",
+    "colors": {
+      "category_bg": "#FFB6C1",
+      "card_bg": "#FFF5EE",
+      "text_and_button_bg": "#FF6347"
+    },
+    "description": "Access to books is essential for a child's education, yet many students lack the resources to obtain them. Your contribution will help supply books to underprivileged students, giving them the tools they need to succeed in their studies. Together, we can inspire a love of reading, empower young minds, and help shape a brighter future for these children.",
+    "price": 700
+  },
+  {
+    "id": 8,
+    "picture": "https://images.pexels.com/photos/12227661/pexels-photo-12227661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Emergency Medical Kits",
+    "category": "Health",
+    "colors": {
+      "category_bg": "#ADD8E6",
+      "card_bg": "#E0FFFF",
+      "text_and_button_bg": "#4682B4"
+    },
+    "description": "Emergency medical kits are vital for providing immediate care in disaster-stricken areas and conflict zones. Your donation will fund the distribution of these kits, which contain life-saving supplies such as bandages, antiseptics, and essential medicines. By supporting this initiative, you are helping to ensure that those affected by emergencies receive the urgent care they need.",
+    "price": 2500
+  },
+  {
+    "id": 9,
+    "picture": "https://cdn.stocksnap.io/img-thumbs/960w/caregiver-nurse_LUNSDDWAIF.jpg",
+    "title": "Clean Water Initiative",
+    "category": "Health",
+    "colors": {
+      "category_bg": "#ADD8E6",
+      "card_bg": "#E0FFFF",
+      "text_and_button_bg": "#4682B4"
+    },
+    "description": "Clean water is a basic necessity, yet many communities still lack access to it. Your support for this initiative will help fund the installation of clean water systems in rural and underserved areas. By providing safe drinking water, we can prevent waterborne diseases, improve health outcomes, and enhance the quality of life for countless individuals.",
+    "price": 4000
+  },
+  {
+    "id": 10,
+    "picture": "https://images.pexels.com/photos/6995244/pexels-photo-6995244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Warm Meals for Kids",
+    "category": "Food",
+    "colors": {
+      "category_bg": "#FFDEAD",
+      "card_bg": "#F5F5DC",
+      "text_and_button_bg": "#D2691E"
+    },
+    "description": "Many children go to bed hungry every night. With your donation, we can provide warm, nutritious meals to children in need, ensuring they receive the sustenance necessary for healthy growth and development. This campaign focuses on feeding children in low-income families, schools, and shelters, helping to nourish their bodies and minds.",
+    "price": 1300
+  },
+  {
+    "id": 11,
+    "picture": "https://cdn.pixabay.com/photo/2018/02/07/18/30/group-3137670_1280.jpg",
+    "title": "Build a Library",
+    "category": "Education",
+    "colors": {
+      "category_bg": "#FFB6C1",
+      "card_bg": "#FFF5EE",
+      "text_and_button_bg": "#FF6347"
+    },
+    "description": "Libraries are gateways to knowledge, yet many communities lack this essential resource. Your contribution will help build a community library, providing access to books, educational programs, and a safe space for learning. This initiative aims to empower individuals of all ages by fostering a love of reading and offering opportunities for lifelong learning.",
+    "price": 6000
+  },
+  {
+    "id": 12,
+    "picture": "https://www.shutterstock.com/shutterstock/photos/2441795725/display_1500/stock-photo-donation-concept-a-woman-puts-clothes-in-a-cardboard-box-at-home-for-donation-recycling-or-2441795725.jpg",
+    "title": "Blankets for the Homeless",
+    "category": "Clothing",
+    "colors": {
+      "category_bg": "#F5DEB3",
+      "card_bg": "#FFF8DC",
+      "text_and_button_bg": "#8B4513"
+    },
+    "description": "As the temperatures drop, homeless individuals are at risk of severe cold-related health issues. Your donation will provide blankets and other warm essentials to those living on the streets, helping them to stay warm and safe during the winter months. Together, we can offer comfort and care to those who need it most.",
+    "price": 800
+  }
+]
